@@ -1,7 +1,7 @@
 # I AM KUNAL KURVE, SOFTWARE ENGINEER
 
 This is my Personal Portfolio Website
-https://kunalkurve.github.io/Kunal-Kurve/
+https://kunalkurve.github.io/Portfolio/
 
 <h1 align="center">Hi 👋 and Welcome to my GitHub account</h1>
 
