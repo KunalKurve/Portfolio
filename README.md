@@ -1,4 +1,4 @@
-# I AM KUNAL KURVE, Software ENGINEER
+# I AM KUNAL KURVE, SOFTWARE ENGINEER
 
 This is my Personal Portfolio Website
 https://kunalkurve.github.io/Kunal-Kurve/
